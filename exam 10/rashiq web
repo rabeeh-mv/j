@@ -1,0 +1,32 @@
+<html>
+<head><title>kalolsavam</title>
+<style>
+p
+{
+font-family:free sans;
+color:#401d9a;
+font-size:20px;
+background:#ff0000;
+}
+h3
+{
+font-family:gentium;
+color:#550000;
+font-size:80px;
+background:#ff5555;
+}
+</style>
+</head>
+<body>
+<h3>on stage</h3>
+<p>
+song<br>speech<br>story
+</p>
+<h2>non stage</h2>
+<p>
+essay<br>hand write<br>matrix
+</p>
+</body>
+</html>
+
+

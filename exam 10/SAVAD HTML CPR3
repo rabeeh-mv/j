@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>school kalolsavam</title>
+<style>
+p
+{
+font-family:ubuntu mono;
+color:#55d400;
+font-size:20px;
+}
+h3
+{
+font-family:andika;
+color:#ff00ff;
+font-size:50px;
+}
+{
+background-color:#00ffff;
+}
+</style>
+</head>
+<body>
+<h3>single items</h3>
+<p>mohiniyattam<br>bharathanatyam</p>
+<h3>group items</h3>
+<p>oppana<br>thiruvathira</p>
+</body>
+</html>

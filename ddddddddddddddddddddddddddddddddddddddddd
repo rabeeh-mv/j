@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>school art fest</title>
+<style>
+h3
+{font-family:liberashtion sans;
+color:#401d9a;
+font-size:20px;
+background-color:#00ff00;
+background-color:#00ff00;
+}
+h2
+{font-family:liberashtion sans;
+color:#401d9a;
+font-size:20px;
+background-color:#00ff00;
+}
+p
+{
+background-color:#00ff00;
+}
+</style>
+</head>
+<body>
+<h3>grouop items</h3>
+<p>song<br>story telling<br>kavith</p>
+<h2>single items</h2>
+<p>oppana<br>thiruvathira<br>group song</p>
+</body

@@ -1,0 +1,33 @@
+
+
+<html>
+<head>
+<title>school art fest 2k25
+</title>
+<style>
+h
+{
+font-family:liberation sans;
+color:#00ff00;
+font-size:30px;
+}
+p
+{
+font-family:liberation sans;
+color:#ff00ff;
+font-size:20px;
+}
+</style>
+</head>
+<body>
+<h>single items 
+</h>
+<p>speech<br>story<br>song
+</p>
+<h>gruop items
+</h>
+<p>gruop song<br>kochuppidi<br>thech manseram
+</p>
+</body>
+</html>
+
